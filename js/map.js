@@ -1,4 +1,4 @@
-var baseUrl = 'http://www.free-map.org.uk/0.6/ws/tsvr.php';
+var baseUrl = 'https://www.free-map.org.uk/0.6/ws/tsvr.php';
 var tileUrl = baseUrl + '?x={x}&y={y}&z={z}&way=all&poi=all&kothic=1&contour=1&coastline=1';
 
 var lat = 51.05;
